@@ -1,6 +1,6 @@
 # ember-copycat
-##30 days, 30 mock websites. Day Two.
-This is a static page of Bootstap (non-responsive). 
+##30 days, 30 mock websites. Day Three.
+Today, Ember.js 
 
 *Something new I learned:*
 
