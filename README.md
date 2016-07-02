@@ -2,11 +2,11 @@
 ##30 days, 30 mock websites. Day Two.
 This is a static page of Bootstap (non-responsive). 
 
-*Something new I learned: 
+*Something new I learned:*
 
-1. How to put an icon into a search field
+*1. How to put an icon into a search field*
 
-2. Discovering background-size: cover *
+*2. Discovering background-size: cover *
 
 
 
